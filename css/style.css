@@ -75,3 +75,6 @@ a:active{
 .ua{
     list-style-type: upper-roman;
 }
+table,th,td{
+    border:1px solid pink;
+}
