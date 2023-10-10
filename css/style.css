@@ -80,13 +80,13 @@ table,th,td{
     border-collapse: collapse;
 }
 .table_head{
-    background-color: #00ced1;
+    background-color: #bb5ebb;
     color: #ffff;
     text-align: center;
     padding: 1%;
 }
 .td1{
-    background-color: bisque;
+    background-color: rgb(239, 208, 239);
 }
 .t1{
     width: 80%;
