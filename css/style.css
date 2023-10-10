@@ -77,4 +77,17 @@ a:active{
 }
 table,th,td{
     border:1px solid pink;
+    border-collapse: collapse;
+}
+.table_head{
+    background-color: #00ced1;
+    color: #ffff;
+    text-align: center;
+    padding: 1%;
+}
+.td1{
+    background-color: bisque;
+}
+.t1{
+    width: 80%;
 }
