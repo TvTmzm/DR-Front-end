@@ -1,0 +1,55 @@
+/* 也可以使用在线字库 */
+
+p {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    font-family: "Brush Script MT", "Courier New", monospace;
+
+    background-color: rgb(204, 231, 181,0.3);
+    width: 1500px;
+
+    /* background-image: url(../imgs/背景1.png);
+    background-repeat: repeat-x; */
+
+
+    border-width: 20px;
+    border-style: dotted dashed solid double;
+    border-color: aqua;
+    border-radius: 20px;
+
+
+    /* overflow: hidden; */
+    /* 阻止内容溢出 */
+    /* word-wrap: break-word; s*/
+    /* 自动换行 */
+    padding-right: 100px;
+
+
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    color: #00ced1;
+    font-size: 14px;
+    background-color: antiquewhite;
+}
+
+#k1 {
+    /*对id进行css样式渲染*/
+    color: azure;
+    font-size: 16px;
+    background-color: aquamarine;
+}
+
+.c1 {
+    /*对class进行css样式渲染*/
+    color: azure;
+    font-size: 16px;
+    background-color: aquamarine;
+}
