@@ -8,6 +8,7 @@ p {
     text-transform: capitalize;
     text-shadow: 2px 2px 5px red;
     font-family: "Brush Script MT", "Courier New", monospace;
+    font-weight: normal;
 
     background-color: rgb(204, 231, 181,0.3);
     width: 1500px;
@@ -52,4 +53,19 @@ h5 {
     color: azure;
     font-size: 16px;
     background-color: aquamarine;
+}
+a:link{
+    color: red;
+}
+
+a:visited{
+    color:green;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+a:active{
+    color:blue;
 }
