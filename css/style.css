@@ -69,3 +69,9 @@ a:hover{
 a:active{
     color:blue;
 }
+.uc{
+    list-style-type: square;
+}
+.ua{
+    list-style-type: upper-roman;
+}
