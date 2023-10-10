@@ -91,3 +91,6 @@ table,th,td{
 .t1{
     width: 80%;
 }
+tr:hover{
+    background-color: chocolate;
+}
