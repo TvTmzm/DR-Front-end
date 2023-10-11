@@ -1,5 +1,5 @@
 .d1{
-    width: 200px;
+    width: 700px;
     height: 150px;
     background-color: aquamarine;
     color: brown;
@@ -17,4 +17,13 @@
     position: fixed;
     bottom: 10px;
     right: 0px;
+}
+.d11{
+    width: 100px;
+    height: 60px;
+    background-color: bisque;
+    position: absolute;
+    left: 200px;
+    right: 100px;
+
 }
