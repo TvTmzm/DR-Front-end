@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+
+  }
+
+li a{
+    display: block;
+    color: peru;
+    width:60px;
+    text-decoration: none;
+    background-color:purple;
+    padding: 8px 16px;
+  }
+
+  li{
+    padding: 5px;
+  }
